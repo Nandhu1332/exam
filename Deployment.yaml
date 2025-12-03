@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: kadarinandhini/sample:kubedemoapp 
+          image: kadarinandhini/sample:t1 
           ports:
             - containerPort: 5000
